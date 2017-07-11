@@ -1,5 +1,4 @@
-//: Playground - noun: a place where people can play
 
-import UIKit
+let myConstant = 0
 
-var str = "Hello, playground"
+var myVariable: Int = 1
